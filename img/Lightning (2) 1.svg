@@ -1,0 +1,14 @@
+<svg width="98" height="161" viewBox="0 0 98 161" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Lightning (2) 1" clip-path="url(#clip0_216_429)">
+<path id="Vector" d="M30.5946 4.96556L79.5867 0.0309377C84.0223 -0.415832 87.2876 4.05904 85.4727 8.09734L65.4059 52.7472C64.5507 54.6499 65.955 56.7951 68.0557 56.7951H93.6409C97.15 56.7951 99.2159 60.7022 97.2203 63.5645L30.6031 159.11C27.7313 163.23 21.2771 160.007 22.904 155.266L44.3362 92.8175C45.0398 90.7676 43.2937 88.711 41.1368 89.0491L6.71433 94.4458C2.4684 95.1115 -1.00774 91.1273 0.267084 87.0564L24.401 9.98795C25.2634 7.2339 27.7014 5.25697 30.5946 4.96556Z" fill="url(#paint0_linear_216_429)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_216_429" x1="50.0152" y1="147.239" x2="-15.7644" y2="139.967" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7522"/>
+<stop offset="1" stop-color="#FF3A44"/>
+</linearGradient>
+<clipPath id="clip0_216_429">
+<rect width="98" height="161" fill="white"/>
+</clipPath>
+</defs>
+</svg>
